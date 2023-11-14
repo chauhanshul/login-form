@@ -60,6 +60,6 @@ h1 {
 @media (max-width: 1200px){
   .form{
     width: 80%;
-    margin: 5% 10%;
+    margin: 5% 10% 5% 10%;
   }
 }
