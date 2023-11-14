@@ -58,6 +58,9 @@ h1 {
 }
 
 @media (max-width: 1200px){
+  body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYOzeXxKoCKIWzr4D4mWDlNt3-ReF69FN3m7H0t-Ju1HwIb_r1A4CXXzt0Z4KHZoLklA&usqp=CAU);
+  }
   .form{
     width: 80%;
     margin: 5% 10% 5% 10%;
