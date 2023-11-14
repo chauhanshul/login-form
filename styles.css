@@ -1,0 +1,58 @@
+body {
+  /* background-image: linear-gradient(-90deg, #610c9f, #940b92); */
+  background-image: url(https://wallpapers.com/images/hd/purple-aesthetic-laptop-sdtqou5vmxeg6iqq.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.form {
+  margin: 5% 35%;
+  width: 30%;
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(8px);
+  text-align: center;
+  padding: 2% 5%;
+  box-sizing: border-box;
+  height: 60vh;
+  border-radius: 2%;
+  border: 1px solid white;
+}
+.input-text {
+  margin: 5% 5%;
+  height: 5vh;
+  width: 90%;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: aliceblue;
+  padding: 2%;
+  border: none;
+}
+.checkbox {
+  text-align: left;
+  display: inline;
+  margin-left: 0;
+  margin-right: 10%;
+  color: #f4eae0;
+}
+.link {
+  text-align: right;
+  display: inline;
+}
+a {
+  color: #f4eae0;
+  text-decoration: none;
+}
+h1 {
+  color: #f4eae0;
+  text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000,
+    -1px -1px 0 #000;
+  margin: 5% auto 15% auto;
+}
+.button-styles {
+  width: 94%;
+  height: 7vh;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin-top: 15%;
+  border: none;
+  color: #fff5e0;
+}
